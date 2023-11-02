@@ -7,13 +7,13 @@ jobs:
     runs-on: ubuntu-latest
     #Map a step output to a job output
     outputs:
-      output1: ${{ steps.steps1.outputs.test }}
-      output2: ${{ steps.steps2.outputs.test }}
+      output1: ${{ steps.steps1.outputs.test1 }}
+      output2: ${{ steps.steps2.outputs.test2 }}
     steps:
       - id: step1
-        run: echo "test=Hello" >> $GITHUB_OUTPUT
+        run: echo "test1=Hello" >> $GITHUB_OUTPUT
       - id: step2
-        run: echo "test=World!" >> $GITHUB_OUTPUT
+        run: echo "test2=World!" >> $GITHUB_OUTPUT
 
   job2:
     runs-on: ubuntu-latest
