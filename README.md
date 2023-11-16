@@ -5,9 +5,9 @@ HCA_Laboratory
 ### Google Cloud Projects
 Project Name                 | Project ID                | Project Goal
 -----------------------------|---------------------------|-----------------------------------------
-hca-dsa-scheduling-train     |hca-dsa-scheduling-train   |Where the existing timpani dev happens.
-hca-dsa-mlops-train          |hca-dsa-mlops-train        |(Will be deprecated) where MLOPS works.
-hca-dsa-bhp-train            |hca-dsa-bhp-train          |MLOPS Dev Env with fake data.
+hca-dsa-scheduling-train     |hca-dsa-scheduling-train   | Timpani dev environment.
+hca-dsa-mlops-train          |hca-dsa-mlops-train        | MLOPS works (Will be deprecated).
+hca-dsa-bhp-train            |hca-dsa-bhp-train          | MLOPS Dev Env with fake data.
 
 ## Google Cloud Projects
 
