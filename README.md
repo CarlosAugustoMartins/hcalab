@@ -7,7 +7,7 @@ Project Name                 | Project ID                | Project
 -----------------------------|---------------------------|-----------------------------------------
 hca-dsa-scheduling-train     |hca-dsa-scheduling-train   |Where the existing timpani dev happens.
 hca-dsa-mlops-train          |hca-dsa-mlops-train        |(Will be deprecated) where MLOPS works.
-hca-dsa-bhp-train            |hca-dsa-bhp-train          |MLOPS Dev Env. fake data.
+hca-dsa-bhp-train            |hca-dsa-bhp-train          |MLOPS Dev Env with fake data.
 
 ## Google Cloud Projects
 
